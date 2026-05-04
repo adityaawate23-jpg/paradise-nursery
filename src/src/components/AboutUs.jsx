@@ -3,7 +3,9 @@ function AboutUs() {
     <div>
       <h1>Paradise Nursery</h1>
       <p>
-        Welcome to Paradise Nursery. We provide beautiful indoor plants to make your home fresh and lively.
+        Paradise Nursery is a plant shop dedicated to providing high-quality indoor plants.
+        We help customers create a fresh and green environment in their homes with a wide
+        variety of beautiful plants.
       </p>
     </div>
   );
